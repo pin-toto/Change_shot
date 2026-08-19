@@ -49,3 +49,12 @@
 ```bash
 git clone https://github.com/pin-toto/Change_shot.git
 cd Change_shot
+‍```
+
+## 📝License
+
+MIT License – see LICENSE file for details.
+
+## ⭐ Show Your Support
+
+Give a ⭐️ if you enjoyed this project!
