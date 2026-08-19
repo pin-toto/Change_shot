@@ -2,7 +2,6 @@
 
 A simple 2D shooter game built with C++ and SDL2.
 
-![Game Screenshot](screenshot.png) *(Add a screenshot if you have one)*
 
 ---
 
