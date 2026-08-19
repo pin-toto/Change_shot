@@ -46,10 +46,10 @@
 
 ### 1. Clone the Repository
 
-```bash
+```
 git clone https://github.com/pin-toto/Change_shot.git
 cd Change_shot
-‍```
+```
 
 ## 📝License
 
