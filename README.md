@@ -45,29 +45,12 @@ A simple 2D shooter game built with C++ and SDL2.
 - A C++ compiler (e.g., `g++`, MinGW, or MSVC).
 
 ### 1. Clone the Repository
-
-```bash
+```
 git clone https://github.com/pin-toto/Change_shot.git
 cd Change_shot
-
-2. Compile the Game
-On Linux / macOS:
-bash
-
-g++ main.cpp -o Change_shot -lSDL2
-
-On Windows (with MinGW):
-bash
-
-g++ main.cpp -o Change_shot.exe -I"SDL2-2.32.8/x86_64-w64-mingw32/include" -L"SDL2-2.32.8/x86_64-w64-mingw32/lib" -lmingw32 -lSDL2main -lSDL2 -mwindows
-
-    Note: Make sure SDL2.dll is placed in the same directory as the executable.
-
-3. Run the Game
-bash
-
-./Change_shot       # Linux/macOS
-Change_shot.exe     # Windows
+g++ main.cpp - o change_shot -lSDL2
+./change_shot
+```
 
 🧑‍💻 Development
 Project Structure
